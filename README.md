@@ -34,7 +34,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### Awesome WM
 
-- [Raphael McSinyx's theme](https://github.com/McSinyx/debdotfiles/tree/master/awesome/.config/awesome/themes/gruvbox)
+- [Raphael McSinyx's theme](https://github.com/McSinyx/dotfiles/tree/master/awesome/.config/awesome/themes)
 
 ### Chrome
 
