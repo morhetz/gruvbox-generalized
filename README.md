@@ -55,6 +55,12 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Firefox
 - [Abraham Raji's port](https://github.com/avronr/gruvarc-firefox)
 
+### GNOME Terminal
+
+- [metalelf0/gnome-terminal-colors](https://github.com/metalelf0/gnome-terminal-colors)
+
+Follow the instructions [here](https://github.com/metalelf0/gnome-terminal-colors/tree/master?tab=readme-ov-file#installation-and-usage).
+
 ### HyperTerm
 
 - [Gruvbox Dark Theme](https://github.com/mcchrish/hyperterm-gruvbox-dark)
